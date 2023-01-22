@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Stuart",
+    "price": 10.99,
+    "imgUrl": "/imgs/1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Kevin",
+    "price": 11.99,
+    "imgUrl": "/imgs/2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Bob",
+    "price": 13.05,
+    "imgUrl": "/imgs/3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Dave",
+    "price": 14.0,
+    "imgUrl": "/imgs/4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Phil",
+    "price": 12.99,
+    "imgUrl": "/imgs/5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Tim",
+    "price": 11.99,
+    "imgUrl": "/imgs/6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Carl",
+    "price": 10.05,
+    "imgUrl": "/imgs/7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Jorge",
+    "price": 15.0,
+    "imgUrl": "/imgs/8.jpg"
+  }
+]
