@@ -1,3 +1,9 @@
 export function Home() {
-  return <h1> Home </h1>;
+  return (
+    <div>
+      <video loop autoPlay muted>
+        <source src="video.mp4" type="video/mp4" />
+      </video>
+    </div>
+  );
 }
