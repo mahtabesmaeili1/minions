@@ -1,8 +1,8 @@
 .videoWrapper {
-  /* display: flex; */
+  display: flex;
   position: absolute;
-  background: url("/imgs/26.jpg");
-  background-size: "cover";
+  /* background: url("/imgs/26.jpg"); */
+  /* background-size: "cover"; */
   background-position: center;
   top: 0;
   left: 0;
@@ -15,10 +15,8 @@
   position: relative;
   margin: auto;
   z-index: 0;
-  width: 30%;
-  height: 40%;
-  /* height: 50%;
-  width: 50%; */
+  width: 70%;
+  height: 70%;
 }
 
 .AboutBackground {
